@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Loginsignup</string>
+    <string name="google">google</string>
+    <string name="some_text">some_text</string>
+    <string name="some_hint">some_hint</string>
+    <string name="dialog_text">dialog_text</string>
+    <string name="textMessage">textMessage</string>
+</resources>
